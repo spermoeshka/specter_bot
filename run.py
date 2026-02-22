@@ -6,7 +6,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, WebAppInfo
 from main import app  # импортируем FastAPI app из main.py
 
-BOT_TOKEN = "8263129893:AAGKbAR_cjWyxTXnTLsxXX2KcH9f1aPQLiI"
+BOT_TOKEN = "TG_KEYS"
 WEBAPP_URL = "https://playful-bombolone-236702.netlify.app/"
 
 bot = Bot(token=BOT_TOKEN)
