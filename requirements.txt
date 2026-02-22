@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+aiosqlite
+aiogram==3.7.0
